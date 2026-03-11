@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Scholario - The Third Level Summary</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+body{
+  font-family: Arial, sans-serif;
+  margin:0;
+  background:#f0f4ff;
+  overflow-x:hidden;
+}
+
+/* Canvas Background */
+#bgCanvas{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  z-index:-1;
+}
+
+/* Header */
+header{
+  background:linear-gradient(90deg,#4a6cff,#7a8dff);
+  color:white;
+  text-align:center;
+  padding:30px;
+}
+header h1{
+  margin:0;
+  font-size:35px;
+}
+
+/* Navigation */
+nav{
+  background:#2f4fd6;
+  padding:10px;
+  text-align:center;
+}
+nav a{
+  color:white;
+  margin:0 15px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+/* Hero */
+.hero{
+  background:white;
+  text-align:center;
+  padding:25px;
+  margin-bottom:20px;
+  border-radius:10px;
+  box-shadow:0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* Container */
+.container{
+  padding:20px;
+}
+
+/* Card */
+.card{
+  background:white;
+  padding:20px;
+  border-radius:12px;
+  margin-bottom:20px;
+  box-shadow:0 3px 8px rgba(0,0,0,0.1);
+}
+
+/* Feature Cards Grid */
+.feature-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:15px;
+  margin-top:15px;
+}
+.feature-card{
+  padding:18px;
+  border-radius:10px;
+  text-align:center;
+  font-weight:bold;
+  color:#333;
+}
+.feature1{background:#ffeff0;}
+.feature2{background:#eafff3;}
+.feature3{background:#f3ecff;}
+.feature4{background:#fff6e6;}
+
+/* Extra Sections */
+.extra{
+  background:#e3f2ff;
+  border-left:5px solid #4a6cff;
+  padding:15px;
+  margin-top:20px;
+  border-radius:8px;
+}
+
+/* Exam Boost */
+.exam-boost{
+  background:#fffbe6;
+  border-left:5px solid #f1c40f;
+  padding:15px;
+  margin-top:10px;
+  border-radius:8px;
+}
+
+/* Footer */
+footer{
+  background:#2f4fd6;
+  color:white;
+  text-align:center;
+  padding:15px;
+  margin-top:20px;
+}
+</style>
+</head>
+
+<body>
+
+<canvas id="bgCanvas"></canvas>
+
+<header>
+<h1>📚 Scholario</h1>
+<p>Smart Study Notes for Class 11 & 12 ✨</p>
+</header>
+
+<nav>
+<a href="#">🏠 Home</a>
+<a href="#">📘 Class 11</a>
+<a href="#">📗 Class 12</a>
+<a href="#">📝 Notes</a>
+</nav>
+
+<div class="hero">
+<h2>Welcome Students 👩‍🎓👨‍🎓</h2>
+<p>Quick summaries, key points, and exam-smart notes 🚀</p>
+</div>
+
+<div class="container">
+
+<!-- Feature Cards Instead of Subjects -->
+<div class="card">
+<h2>✨ Why Students Love Scholario</h2>
+<div class="feature-grid">
+<div class="feature-card feature1">📚 Simple Summaries<br>Understand chapters easily</div>
+<div class="feature-card feature2">🚀 Exam Boost Points<br>Score higher marks</div>
+<div class="feature-card feature3">⚡ Quick Revision<br>Perfect for last-minute study</div>
+<div class="feature-card feature4">🧠 Concept Clarity<br>Theme and story meaning explained</div>
+</div>
+</div>
+
+<!-- Featured Chapter -->
+<div class="card" style="background:linear-gradient(90deg,#4a6cff,#7a8dff);color:white;text-align:center;">
+<h2>📖 Featured Chapter</h2>
+<p>Today’s most popular chapter among students</p>
+<h3>The Third Level – Jack Finney</h3>
+<p>Fantasy meets reality in this mysterious story about time travel and escaping modern stress.</p>
+</div>
+
+<!-- Full Summary Section -->
+<div class="card">
+<h2>📖 The Third Level – Full Summary</h2>
+
+<div class="extra">
+<h3>🧐 About the Story</h3>
+<p>
+“The Third Level” by Jack Finney is a short story blending reality and fantasy. 
+It tells the story of Charley, a 31-year-old man who discovers a mysterious third level at Grand Central Station, which seems to belong to the year 1894. 
+The story explores human desire to escape the stress of modern life and seek a simpler, peaceful past.
+</p>
+</div>
+
+<div class="extra">
+<h3>🌟 Why Refer This Summary?</h3>
+<ul>
+<li>Easy to understand language for quick reading 📖</li>
+<li>Highlights key points to score better marks 🏆</li>
+<li>Includes themes, moral, and exam boost points ✨</li>
+<li>Structured like professional summary websites 🌐</li>
+<li>Good for exams and rapid revision 🕒</li>
+</ul>
+</div>
+
+<p>
+Charley wants to escape the stress of modern life and travel to Galesburg, Illinois, a peaceful town of the past. While attempting to buy tickets at the third level, the clerk refuses his modern currency. Confused, he leaves and later tells his friend Sam, a psychiatrist, about the discovery. Sam first considers the third level a psychological escape created by Charley’s mind. Later, Sam travels to the third level and confirms it exists, adding a mysterious twist to the story.
+</p>
+
+<div class="extra">
+<h3>💡 Theme / Moral / Lesson</h3>
+<ul>
+<li>Desire to escape stress and modern problems 🌿</li>
+<li>Blend of fantasy and reality ✨</li>
+<li>Importance of imagination and hope 💭</li>
+<li>Reality and fantasy may be closely intertwined 🔑</li>
+</ul>
+</div>
+
+<div class="extra">
+<h3>📌 Full Detailed Summary</h3>
+<p>
+The narrator, Charley, is a 31-year-old man living in New York. One day, while at Grand Central Station, he discovers a mysterious third level that seems to belong to the year 1894. Everything there looks old-fashioned: the people wear nineteenth-century clothes, the lights are gas lamps, and the furniture is antique. Charley is fascinated and excited about the possibility of escaping modern life and traveling to Galesburg, Illinois.
+</p>
+<p>
+He goes to the ticket counter and asks for two tickets to Galesburg. However, the clerk refuses to accept his modern money. Frightened, Charley leaves and later shares his experience with his friend Sam, who is a psychiatrist. Sam suggests it may be a psychological escape, but later confirms that the third level exists when he travels there himself.
+</p>
+<p>
+The story ends with this mysterious twist, making it unclear whether the third level is real or imaginary. It reflects human desire to escape, the fascination with the past, and the interplay between fantasy and reality.
+</p>
+</div>
+
+<div class="exam-boost">
+<h3>🚀 Exam Boost Key Points</h3>
+<ul>
+<li>Use keywords: “mysterious third level”, “Grand Central Station”, “year 1894” ✅</li>
+<li>Mention Charley’s desire to escape modern stress 🌿</li>
+<li>Explain Sam’s initial psychological view 🧠 and later confirmation ✉️</li>
+<li>Highlight theme: escape from reality & mix of fantasy and reality ✨</li>
+<li>Include character names and actions for full marks 🏆</li>
+<li>Short sentences with keywords impress teachers 🔑</li>
+</ul>
+</div>
+
+<div class="extra">
+<h3>✍️ Conclusion</h3>
+<p>
+“The Third Level” is an intriguing story that teaches students about imagination, 
+human desire to escape stress, and the blending of reality with fantasy. 
+Understanding the story fully, along with the key points, themes, and exam boost tips, 
+helps students answer exam questions effectively while enjoying the narrative.
+</p>
+</div>
+
+</div>
+
+</div>
+
+<footer>
+<p>© 2026 Scholario | Free Study Notes for Students 📚</p>
+</footer>
+
+<script>
+/* Canvas Animation Background */
+const canvas = document.getElementById("bgCanvas");
+const ctx = canvas.getContext("2d");
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+
+let circles=[];
+for(let i=0;i<25;i++){
+  circles.push({
+    x:Math.random()*canvas.width,
+    y:Math.random()*canvas.height,
+    r:Math.random()*3+1,
+    dx:Math.random()*0.5,
+    dy:Math.random()*0.5
+  });
+}
+
+function animate(){
+  ctx.clearRect(0,0,canvas.width,canvas.height);
+  circles.forEach(c=>{
+    ctx.beginPath();
+    ctx.arc(c.x,c.y,c.r,0,Math.PI*2);
+    ctx.fillStyle="rgba(100,120,255,0.3)";
+    ctx.fill();
+    c.x+=c.dx;
+    c.y+=c.dy;
+    if(c.x>canvas.width||c.y>canvas.height){
+      c.x=Math.random()*canvas.width;
+      c.y=0;
+    }
+  });
+  requestAnimationFrame(animate);
+}
+
+animate();
+</script>
+
+</body>
+</html>
